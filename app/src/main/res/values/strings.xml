@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application Test</string>
+    <string name="list_el_1">Элемент списка 1</string>
+    <string name="list_el_2">Элемент списка 2</string>
+    <string name="list_el_3">Элемент списка 3</string>
+    <string name="list_el_4">Элемент списка 4</string>
+    <string name="list_el_5">Элемент списка 5</string>
+    <string name="list_el_6">Элемент списка 6</string>
+    <string name="list_el_7">Элемент списка 7</string>
+    <string name="list_el_8">Элемент списка 8</string>
+    <string name="list_el_9">Элемент списка 9</string>
+    <string name="list_el_10">Элемент списка 10</string>
+</resources>
